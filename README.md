@@ -2,8 +2,8 @@
 
 ## Hey there! This is my first Deep Learning cloud prediction ☁
 
-I used a Unet architecture that have been trained to detect clouds in Sentinel-2 images with 13 bands. 
-Check the encoder and weights details below:
+I used a Unet architecture and is commonly used for image segmentation tasks. The model was trained on a dataset of Sentinel-2 images for the specific task of cloud detection. 
+Check the encoder and weights details here 👇🏾
 
 ``` python
 model = smp.Unet(
@@ -21,7 +21,17 @@ Then, I trained that model using [CLOUDSEN12 dataset](https://cloudsen12.github.
 - Shadow
 - Clear
 
-So the final result was this 🥳:
+So the final result looks like this 🥳:
+<h1 align="center">
+  <br>
+  <a href="https://github.com/valeriallactayo/my_dl"><img src="https://github.com/valeriallactayo/my_dl/blob/master/final_result.png" alt="Markdownify" width="700"></a>
+</h1>
 
+Not bad, right? Here I could apply and finally understand many Deep Learning concepts like epoch, padding, batch, forward, learning rate and many more.
 
-Here i could apply and finally understand many deep learning concepts like ""
+You can check my python script by clicking here 👉🏾 <a href="https://github.com/valeriallactayo/my_dl/blob/master/dlmodel.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
+</h1>
+
+Also you can find in this repository the Sentinel2 image (512x512) and the trained model (model.pt) so you can replicate and improve your DL Skills 🙌🏽. 
+
+    

@@ -29,7 +29,7 @@ So the final result looks like this 🥳:
 
 Not bad, right? Here I could apply and finally understand many Deep Learning concepts like epoch, padding, batch, forward, learning rate and many more.
 
-You can check my python script by clicking here 👉🏾 <a href="https://github.com/valeriallactayo/my_dl/blob/master/dlmodel.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
+You can check my python script <a href="https://github.com/valeriallactayo/my_dl/blob/master/dlmodel.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 </h1>
 
 Also you can find in this repository the Sentinel2 image (512x512) and the trained model (model.pt) so you can replicate and improve your DL Skills 🙌🏽. 

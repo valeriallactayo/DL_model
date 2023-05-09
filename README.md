@@ -2,7 +2,7 @@
 
 ## Hey there! This is my first Deep Learning cloud prediction ☁
 
-I used a Unet architecture and is commonly used for image segmentation tasks. The model was trained on a dataset of Sentinel-2 images for the specific task of cloud detection. 
+I used a Unet architecture that is commonly used for image segmentation tasks. The model was trained on a dataset of Sentinel-2 images for the specific task of cloud detection. 
 Check the encoder and weights details here 👇🏾
 
 ``` python

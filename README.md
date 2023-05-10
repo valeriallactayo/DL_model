@@ -1,4 +1,4 @@
-# Final assigment for my AI Trainning
+# Final assignment for my AI Trainning
 
 ## Hey there! This is my first Deep Learning cloud prediction ☁
 
